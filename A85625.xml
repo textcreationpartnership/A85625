@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory at sea against the Irish rebels, by Captaine Robert Dare commander of the English: where were taken the Earle of Antrim his great ship, 22 peeces of ordnance, 3 barrels of gun-powder, 100 muskets, ... 25 of Captain Dares men slain, and sore wounded.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85625</idno>
+            <idno type="STC">Wing G1764</idno>
+            <idno type="STC">Thomason E426_19</idno>
+            <idno type="STC">ESTC R202243</idno>
+            <idno type="EEBO-CITATION">99862602</idno>
+            <idno type="PROQUEST">99862602</idno>
+            <idno type="VID">161453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161453)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E426[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory at sea against the Irish rebels, by Captaine Robert Dare commander of the English: where were taken the Earle of Antrim his great ship, 22 peeces of ordnance, 3 barrels of gun-powder, 100 muskets, ... 25 of Captain Dares men slain, and sore wounded.</title>
+                  <author>Moore, Francis, d. 1662.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The copy of a letter sent from Cork in Ireland", p. 3-5, signed: Francis More.</note>
+                  <note>Annotation on Thomason copy: "Feb: 10th."; the 8 in imprint date crossed out and date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dare, Robert, --  Captain --  Early works to 1800.</term>
+               <term>Naval battles --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161453:1" rendition="simple:additions"/>
+            <p>
+               <hi>A GREAT VICTORY AT SEA Againſt the Iriſh Rebels, by Captaine</hi> ROBERT DARE <hi>Commander of the ENGLISH</hi>: <hi>WHERE Were taken the Earle of</hi> Antrim <hi>his great Ship,</hi>
+            </p>
+            <list>
+               <item>22 Peeces of Ordnance,</item>
+               <item>3 Barrels of Gun-powder,</item>
+               <item>100 Muskets,</item>
+               <item>200 Halberts, Pikes, and other weapons,</item>
+               <item>Divers Armes and Ammunition,</item>
+               <item>20 Barrels of Beefe,</item>
+               <item>40 Barrels of Beer and Wine,</item>
+               <item>Good ſtore of furniture for the Ship,</item>
+               <item>Divers Cheſts, Trunkes, and Boxes,</item>
+               <item>25 Of Captain <hi>Dares</hi> men ſlain, and ſore wounded.</item>
+            </list>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <pb facs="tcp:161453:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:161453:2"/>
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MALl Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A Great VICTORY At SEA, Againſt the Iriſh Rebels, by Captain <hi>Robert Dare,</hi> Commander of the <hi>Engliſh,</hi> where were taken the Earle of <hi>Antrim</hi> his great ſhip, and 22 pieces of Ordnance.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HIs Majeſty ſeeing that His Attendants muſt be reduced, is not well-pleaſed. He is loath to be hindred from the Common Prayer, and his old Friends; But Collonell <hi>Hammond</hi> is reſolved (to his utmoſt) to put in execution ſuch Orders as ſhall be ſent to him from the Parliament, and the Generals Excellency.</p>
+            <p>
+               <pb n="2" facs="tcp:161453:3"/>
+His Majeſty went forth this morning to walk about the Caſtle; and Collonell <hi>Hammond</hi> was with him: Collonell <hi>Harbert</hi> and ſome others attended him. He was merry at Dinner, and afterwards went into his privy Chamber, where he is ſtill private.</p>
+            <p>We had news here of a Deſigne in hand to invade this Iſland, and that <hi>Van-Trump</hi> with ſome Dutch ſhips ſhould joyne with ſome <hi>Dunkerks,</hi> and <hi>Iriſh</hi> to come hither, but we fear them not, the Vice-Admi<g ref="char:EOLhyphen"/>rall <hi>Rainsborough</hi> having left us a ſtrong guard at Sea, and the Governour having had a great care to ſtreng<g ref="char:EOLhyphen"/>then us in the Iſland.</p>
+            <p>There have beene ſome ſuſpitious perſons lately put away from hence. We want (now) monies moſt to ſupply ſome defects.</p>
+            <p>There was a great ſhip of the <hi>Iriſh</hi> Rebels, upon the South-weſt of <hi>Ireland,</hi> that ridde towards <hi>Gal<g ref="char:EOLhyphen"/>loway,</hi> that is taken by Captaine <hi>Dare</hi> as is certified by Letters come to the Commanders of the ſhips that ride upon our Guard, which was thus.</p>
+            <p>Captaine <hi>Dare</hi> Commander of the <hi>Conſtant Warwick</hi> (one of the Parliaments ſhips that carries 28 peece of Ordnance, having notice that there was ſome <hi>Iriſh</hi> ſhips that had taken ſome Marchants veſſels paſſing neere the South of <hi>Ireland)</hi> ſaled that way, and diſ<g ref="char:EOLhyphen"/>cloſed (at laſt) ſome veſſels, which hee perecived to be <hi>Iriſh,</hi> and thereupon he made towards them.</p>
+            <p>But none would endure ingagement with Cap<g ref="char:EOLhyphen"/>taine <hi>Dare,</hi> untill at laſt hee forced a great ſhip of theirs with two and twenty peece of Ordance to en<g ref="char:EOLhyphen"/>gage.</p>
+            <p>Captaine <hi>Dare</hi> made ſhot at him and the Rebels
+<pb n="3" facs="tcp:161453:3"/>
+ſhot again at the <hi>Conſtant Warwick,</hi> and it grew to be a very hot diſpute, and both veſſels was battered.</p>
+            <p>At laſt Captaine <hi>Dare</hi> boorded the Rebels, and tooke her, but not without great loſſe, having 25 of his men killed and wounded.</p>
+            <p>But Captaine <hi>Robert Dare</hi> hath taken the Rebels ſhip, which is one of the beſt Friggots that the Earle of <hi>Antrim</hi> hath, and it was a gallant peece of ſer<g ref="char:EOLhyphen"/>vice by Captaine <hi>Dare.</hi>
+            </p>
+            <p>We have news here that Prince <hi>Charles,</hi> the Prince of <hi>Wales</hi> ſhould have gone into <hi>Holland,</hi> but they have denyed him there, ſuppoſing that it would bee charges to them, and perhaps occaſion the Queene to follow, The Prince is now well.</p>
+            <p>His Highneſſe is ſtill with His Mother in <hi>France,</hi> the Earle of <hi>Yarmouth,</hi> and the reſt of the Grandees, are with the Queene of <hi>England</hi> at St. <hi>Jermans</hi> but all very poore, and want money much.</p>
+            <closer>
+               <dateline>Carisbrooke Caſtle <date>the 5 of Feb. 1647</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>THE Copy of a Letter ſent from CORK in IRELAND.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <hi>OWen Roe</hi> ſhewed ſome diſcon<g ref="char:EOLhyphen"/>tent to the ſupreme Councell of
+<pb n="4" facs="tcp:161453:4"/>
+the Rebels, that the Lord <hi>Taffe</hi> ſhould receive immediate Command from them, and having been deſtroyed by the Lord <hi>Inchequin,</hi> they were con<g ref="char:EOLhyphen"/>ſtrained to content <hi>Owen Roe,</hi> and made him <hi>Generaliſsimo,</hi> all Generall Officers, and Brigades, being wholly put under his command, in all Coun<g ref="char:EOLhyphen"/>ties, hee is deſigning Forces againſt <hi>Munſter</hi> of which the Lord <hi>Inchequin</hi> hath received advertiſement, and pre<g ref="char:EOLhyphen"/>pares to oppoſe them,</p>
+            <p>The Rebels threaten to put all men, women, and children to the ſword that oppoſe them.</p>
+            <p>They are ſtrong at Sea, and have taken divers Marchants ſhips, it is ſaid here, that the Earle of <hi>Antrim</hi> hath ſome Deſigne againſt <hi>England,</hi>
+               <pb n="5" facs="tcp:161453:4"/>
+it is good to be in readineſſe with the Engliſh Navy.</p>
+            <p>Captain <hi>Robert Dare</hi> Comman<g ref="char:EOLhyphen"/>der of the <hi>Conſtant Warwick</hi> (one of the Men of VVarre for the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England)</hi> had a great fight with an Iriſh Frigot, Manned by the Earle of <hi>Antrim,</hi> with the verieſt Rogues that ever were put into a ſhip. But Captaine <hi>Dare</hi> hath taken the Rebels, but not without loſſe of men; I pray God that the eyes of the Eng<g ref="char:EOLhyphen"/>liſh may be opened (in time) to relieve this poore Kingdome, which is all at preſent from</p>
+            <closer>
+               <signed>Your faithfull Friend, Francis More.</signed>
+               <dateline>Corke <date>the 4 of Februar. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="6" facs="tcp:161453:5"/>
+            <head>Taken by Captain <hi>Robert Dare</hi> Com<g ref="char:EOLhyphen"/>mander of the <hi>Conſtant Warwick, as followeth.</hi>
+            </head>
+            <list>
+               <item>22 Peeces of Ordnance,</item>
+               <item>3 Barrels of Gunpowder,</item>
+               <item>100 Muskets,</item>
+               <item>200 Halberts, Pikes, and other weapons,</item>
+               <item>Divers Armes, and Ammunition,</item>
+               <item>20 Barrels of Beefe,</item>
+               <item>40 Barrels of Bear and Wine,</item>
+               <item>Good ſtore of furniture for the Ship,</item>
+               <item>Divers Cheſts, Trunks and Boxes.</item>
+               <item>25 Of Captain <hi>Dares</hi> men ſlain, and ſore wounded.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>Feb. 9. 1647.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Gil. Mabbot.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
